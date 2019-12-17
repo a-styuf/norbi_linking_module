@@ -565,26 +565,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFXBPBJH
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for norbi_lm_#1\Move Component(s) Origin To Grid - norbi_lm_#1.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for norbi_lm_#1\ExportIDF\norbi_lm_#1.brd
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=norbi_lm_#1 16.12.2019 11-22-11.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=norbi_lm_#1 17.12.2019 16-48-36.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=norbi_lm_#1 17.12.2019 17-03-56.WAS
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
