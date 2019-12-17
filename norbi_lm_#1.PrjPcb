@@ -22,7 +22,7 @@ DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=1
-PowerPortNamesTakePriority=1
+PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -564,6 +564,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFXBPBJH
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for norbi_lm_#1\Design Rule Check - norbi_lm_#1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -1560,7 +1564,7 @@ UniqueIDPath0=\TWJAQCAF
 DocumentName0=norbi_lm_interface.SchDoc
 IsEnabled0=1
 SelectionScope0=All
-Order0=3
+Order0=1
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
@@ -1576,7 +1580,7 @@ UniqueIDPath2=\MQLOESED
 DocumentName2=norbi_lm_mem.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=4
+Order2=11
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
@@ -1584,7 +1588,7 @@ UniqueIDPath3=\WPMLFIZI
 DocumentName3=norbi_lm_pl_dcr.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=5
+Order3=3
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
@@ -1592,7 +1596,7 @@ UniqueIDPath4=\WPMLFIZI\JAYVFIUP
 DocumentName4=norbi_lm_pl_dcr_power_ch.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=6
+Order4=12
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
@@ -1600,7 +1604,7 @@ UniqueIDPath5=\WPMLFIZI\SUVDGNJP
 DocumentName5=norbi_lm_pl_dcr_power_ch.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=7
+Order5=23
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
@@ -1608,7 +1612,7 @@ UniqueIDPath6=\DSCDNQYU\GMCVRRHL
 DocumentName6=norbi_lm_pl_interface.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=8
+Order6=6
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
@@ -1616,7 +1620,7 @@ UniqueIDPath7=\DSCDNQYU\HQHYNFUP
 DocumentName7=norbi_lm_pl_interface.SchDoc
 IsEnabled7=1
 SelectionScope7=All
-Order7=9
+Order7=14
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
@@ -1624,7 +1628,7 @@ UniqueIDPath8=\DSCDNQYU\TIJEMUGE
 DocumentName8=norbi_lm_pl_interface.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=10
+Order8=15
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
@@ -1632,7 +1636,7 @@ UniqueIDPath9=\DSCDNQYU\SNDZFQVQ
 DocumentName9=norbi_lm_pl_interface.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=11
+Order9=16
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
@@ -1640,7 +1644,7 @@ UniqueIDPath10=\DSCDNQYU
 DocumentName10=norbi_lm_pl_iss.SchDoc
 IsEnabled10=1
 SelectionScope10=All
-Order10=12
+Order10=10
 IndexEnabled10=0
 IndexStartValue10=1
 Suffix10=
@@ -1648,7 +1652,7 @@ UniqueIDPath11=\EYLIVBRD
 DocumentName11=norbi_lm_single_power_ch.SchDoc
 IsEnabled11=1
 SelectionScope11=All
-Order11=13
+Order11=17
 IndexEnabled11=0
 IndexStartValue11=1
 Suffix11=
@@ -1656,7 +1660,7 @@ UniqueIDPath12=\DSCDNQYU\GLIYJCFE
 DocumentName12=norbi_lm_single_power_ch.SchDoc
 IsEnabled12=1
 SelectionScope12=All
-Order12=14
+Order12=18
 IndexEnabled12=0
 IndexStartValue12=1
 Suffix12=
@@ -1664,7 +1668,7 @@ UniqueIDPath13=\DSCDNQYU\VCPOTCYQ
 DocumentName13=norbi_lm_single_power_ch.SchDoc
 IsEnabled13=1
 SelectionScope13=All
-Order13=15
+Order13=19
 IndexEnabled13=0
 IndexStartValue13=1
 Suffix13=
@@ -1672,7 +1676,7 @@ UniqueIDPath14=\DSCDNQYU\AVQVBZVI
 DocumentName14=norbi_lm_single_power_ch.SchDoc
 IsEnabled14=1
 SelectionScope14=All
-Order14=16
+Order14=20
 IndexEnabled14=0
 IndexStartValue14=1
 Suffix14=
@@ -1680,7 +1684,7 @@ UniqueIDPath15=\DSCDNQYU\TQXPRPBR
 DocumentName15=norbi_lm_single_power_ch.SchDoc
 IsEnabled15=1
 SelectionScope15=All
-Order15=17
+Order15=21
 IndexEnabled15=0
 IndexStartValue15=1
 Suffix15=
@@ -1688,7 +1692,7 @@ UniqueIDPath16=\ALVYJFNR
 DocumentName16=norbi_lm_trm.SchDoc
 IsEnabled16=1
 SelectionScope16=All
-Order16=18
+Order16=22
 IndexEnabled16=0
 IndexStartValue16=1
 Suffix16=
@@ -1696,7 +1700,7 @@ UniqueIDPath17=\EOZUTLJD
 DocumentName17=norbi_lm_usb.SchDoc
 IsEnabled17=1
 SelectionScope17=All
-Order17=19
+Order17=24
 IndexEnabled17=0
 IndexStartValue17=1
 Suffix17=
@@ -1732,6 +1736,26 @@ UpdateCurrentModels=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=TRM_SCL|NetColor=$000033FF
+Net2=NetName=ALERT|NetColor=$000033FF
+Net3=NetName=TRM_GND|NetColor=$006EFF6E
+Net4=NetName=5V_PL_PL2|NetColor=$000083FD
+Net5=NetName=NetU7_2|NetColor=$000033FF
+Net6=NetName=TRM_ALERT|NetColor=$000033FF
+Net7=NetName=GND_PL|NetColor=$0000BE00
+Net8=NetName=3V3|NetColor=$006E6EFF
+Net9=NetName=GND|NetColor=$006EFF6E
+Net10=NetName=5V_PL|NetColor=$000083FD
+Net11=NetName=5V_PL1.1B|NetColor=$000083FD
+Net12=NetName=5V_PL1.2|NetColor=$000083FD
+Net13=NetName=NetU21_2|NetColor=$006EFF6E
+Net14=NetName=TRM_SDA|NetColor=$000033FF
+Net15=NetName=NetU7_1|NetColor=$000033FF
+Net16=NetName=5V_PL1.1À|NetColor=$000083FD
+Net17=NetName=5V_PL_2|NetColor=$000083FD
+Net18=NetName=NetU21_1|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=0|UseName=-1|InclAllRules=0
