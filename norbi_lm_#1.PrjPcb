@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for norbi_lm_#1
 LogFolderPath=
 ManagedProjectGUID=
 Template=C:\Users\Public\Documents\Altium\AD19\Templates\PC-104 8 bit bus.PrjPCB
@@ -616,7 +616,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for norbi_lm_#1
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -727,7 +727,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Kyocera ECOSYS M4132idn
+TargetPrinter=Phaser 7100N
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -1557,7 +1557,7 @@ MatchParameter2=Value
 MatchStrictly2=1
 MatchParameter3=Наименование
 MatchStrictly3=1
-PhysicalNamingFormat=$ComponentPrefix$ComponentIndex_$ChannelIndex
+PhysicalNamingFormat=$ComponentPrefix$ComponentIndex.$ChannelIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
 UniqueIDPath0=\TWJAQCAF
@@ -1664,27 +1664,27 @@ Order12=18
 IndexEnabled12=0
 IndexStartValue12=1
 Suffix12=
-UniqueIDPath13=\DSCDNQYU\VCPOTCYQ
+UniqueIDPath13=\DSCDNQYU\GGVNHIIO
 DocumentName13=norbi_lm_single_power_ch.SchDoc
 IsEnabled13=1
 SelectionScope13=All
-Order13=19
+Order13=25
 IndexEnabled13=0
 IndexStartValue13=1
 Suffix13=
-UniqueIDPath14=\DSCDNQYU\AVQVBZVI
+UniqueIDPath14=\DSCDNQYU\NCCDCTEI
 DocumentName14=norbi_lm_single_power_ch.SchDoc
 IsEnabled14=1
 SelectionScope14=All
-Order14=20
+Order14=26
 IndexEnabled14=0
 IndexStartValue14=1
 Suffix14=
-UniqueIDPath15=\DSCDNQYU\TQXPRPBR
+UniqueIDPath15=\DSCDNQYU\AEWSXNSM
 DocumentName15=norbi_lm_single_power_ch.SchDoc
 IsEnabled15=1
 SelectionScope15=All
-Order15=21
+Order15=27
 IndexEnabled15=0
 IndexStartValue15=1
 Suffix15=
