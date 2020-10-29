@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [norbi_lm.PcbDoc]
+   Generated File[norbi_lm.TXT]
+   Generated File[norbi_lm.LDP]
+   Generated File[norbi_lm.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:10:37 On 14.09.2020

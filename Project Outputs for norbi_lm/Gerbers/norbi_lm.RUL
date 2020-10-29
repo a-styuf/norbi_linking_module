@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\YandexDisk\Work\Altium\NSU\Норби\Модуль сопряжения\norbi_linking_module\norbi_lm.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.69
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.69
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
