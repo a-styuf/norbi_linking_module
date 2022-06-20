@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:10:44 On 20.06.2022
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [norbi_lm.PrjPcb]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 10:10:45 On 20.06.2022

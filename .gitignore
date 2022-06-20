@@ -29,8 +29,8 @@
 # Например /images/user.jpg, /images/company/logo.png
 # НЕ БУДУТ проигнорированы файлы и папки /prod/images/user.jpg
 #/images/*
-/Project Logs for norbi_lm_#1/*
-/Project Outputs for norbi_lm_#1/*
+/Project Logs for norbi_lm/*
+/Project Outputs for norbi_lm/*
 /History/*
 /_Previews/*
 
